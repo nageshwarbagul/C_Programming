@@ -1,6 +1,6 @@
 # C Programming
 
-Learning C through concepts, practice, and problem solving.
+A collection of C programming programs covering fundamentals, practice, data structures, competitive programming, and problem-solving.
 
 ## About
 
@@ -8,10 +8,9 @@ This repository contains my C programming journey, including concept-based progr
 
 ## Repository Structure
 
-- Fundamentals
 - Practice
-- Data-Structures
 - Competitive-Programming
+- Data-Structures
 
 ## Goals
 
@@ -24,4 +23,3 @@ This repository contains my C programming journey, including concept-based progr
 
 **Nageshwar Bagul**
 
-MSc IMCA Student | Aspiring Java Backend Developer
