@@ -1,13 +1,15 @@
 /*
-START
-    Accept first number as no1;
-    Accept second number as no2;
-    Perform addition of no1 nad no2
-    Display the result
+    Algorithm :
 
-STOP
+    START
+         Accept first number as no1;
+         Accept second number as no2;
+         Perform addition of no1 nad no2
+         Display the result
 
+    STOP
 */
+
 #include<stdio.h>
 
 int main()
@@ -20,9 +22,9 @@ int main()
     printf("Enter second number :\n");
     scanf("%f",&j);
 
-    k=i+j;
+    k = i + j;
 
-    printf("Addition is :%f\n",k);
+    printf("Addition is : %f\n",k);
 
     return 0;
 }
