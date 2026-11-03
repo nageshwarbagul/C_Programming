@@ -18,7 +18,7 @@ void Display(PNODE first, PNODE last)
     {
         return;
     }
-    
+
     do
     {
         printf("| %d | -> ",first->data);
