@@ -8,11 +8,13 @@ void PrintEven(int iNo)
     }
     int iCnt = 0;
     int iNum = 2;
+    
     for (iCnt = 1; iCnt <= iNo; iCnt++)
     {
         printf("%d\t", iNum);
         iNum += 2;
     }
+    
     printf("\n");
 }
 
